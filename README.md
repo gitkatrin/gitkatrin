@@ -1,6 +1,6 @@
 ### Hi, I'm Katrin ✌🏽
 
--  👩🏽‍🎓 I’m currently starting my Master programme.
+-  👩🏽‍🎓 I’m an electronic engineering student.
 -  👩🏽‍💻 I'm working in software development.
 
 <!--
