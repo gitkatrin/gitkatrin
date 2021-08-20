@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi, I'm Katrin ✌🏽
+
+-  👩🏽‍🎓 I’m currently starting my Master programme.
+-  👩🏽‍💻 I'm working in software development.
 
 <!--
 **gitkatrin/gitkatrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
