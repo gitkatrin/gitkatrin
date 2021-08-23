@@ -1,7 +1,8 @@
-### Hi, I'm Katrin ✌🏽
+# Hi, I'm Katrin ✌🏽
 
--  👩🏽‍🎓 I’m an electronic engineering student.
--  👩🏽‍💻 I'm working in software development.
+
+ <img src="https://github.com/gitkatrin/gitkatrin/blob/main/Banner.png" width="1000">
+
 
 <!--
 **gitkatrin/gitkatrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
