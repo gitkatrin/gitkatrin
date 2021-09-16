@@ -2,6 +2,14 @@
 
 
  <img src="https://github.com/gitkatrin/gitkatrin/blob/main/Banner.png" width="1000">
+ 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkatrin&show_icons=true&theme=locale) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin)](https://github.com/anuraghazra/github-readme-stats) 
+
+
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin&layout=compact)](https://github.com/gitkatrin/github-readme-stats)-->
+
 
 
 <!--
