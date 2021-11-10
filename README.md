@@ -8,7 +8,7 @@
 
 - ✅ Bachelor's degree in Electronic Engineering (B. Sc.)
 - 👩🏽‍💻 working in software development
-- 👩🏽‍🎓 Student M.Sc. Consulting and Management
+- 👩🏽‍🎓 Student M. Sc. Consulting and Management
 
 
 
