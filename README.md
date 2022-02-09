@@ -23,6 +23,8 @@
 - 👩🏽‍💻 working in software development
 - 👩🏽‍🎓 Student M. Sc. Consulting and Management
 
+[![Linkedin Badge](https://img.shields.io/badge/-Katrin%20Glöwing-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.https://www.linkedin.com/in/katrin-gl%C3%B6wing-9b2a24205/)](https://www.linkedin.com/in/katrin-gl%C3%B6wing-9b2a24205/)
+
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin&layout=compact)](https://github.com/gitkatrin/github-readme-stats)-->
