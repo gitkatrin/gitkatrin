@@ -1,4 +1,7 @@
 # Hi, I'm Katrin (she/her) ✌🏽
+[![Linkedin Badge](https://img.shields.io/badge/-Katrin%20Glöwing-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.https://www.linkedin.com/in/katrin-gl%C3%B6wing-9b2a24205/)](https://www.linkedin.com/in/katrin-gl%C3%B6wing-9b2a24205/)
+[![GitHub followers](https://img.shields.io/github/followers/gitkatrin?label=Follow&style=social)](https://github.com/gitKatrin/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-katringlo404@gmail.com-red?style=social&logo=Gmail&logoColor=red)](mailto:katringlo404@gmail.com)
 
 <!---
 ![](https://komarev.com/ghpvc/?username=gitkatrin)
@@ -23,7 +26,7 @@
 - 👩🏽‍💻 working in software development
 - 👩🏽‍🎓 Student M. Sc. Consulting and Management
 
-[![Linkedin Badge](https://img.shields.io/badge/-Katrin%20Glöwing-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.https://www.linkedin.com/in/katrin-gl%C3%B6wing-9b2a24205/)](https://www.linkedin.com/in/katrin-gl%C3%B6wing-9b2a24205/)
+
 
 
 
