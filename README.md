@@ -16,11 +16,11 @@
 -->
 
  <img src="https://github.com/gitkatrin/gitkatrin/blob/main/Banner.png" width="1000">
- 
+
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkatrin&show_icons=true&theme=locale) -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin)](https://github.com/anuraghazra/github-readme-stats) 
-<img src="https://c.tenor.com/ofRfDfidsZsAAAAj/cat-checking-in.gif" width="200">
+<img src="https://c.tenor.com/ofRfDfidsZsAAAAj/cat-checking-in.gif" width="200"> [🔗 Website](https://gitkatrin.github.io/)
 
 - ✅ Bachelor's degree in Electronic Engineering (B. Sc.)
 - 👩🏽‍💻 working in software development
