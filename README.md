@@ -1,5 +1,5 @@
 # Hi, I'm Katrin (she/her) ✌🏽 <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="35">
-
+ 
 [![Linkedin Badge](https://img.shields.io/badge/-Katrin%20Glöwing-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.https://www.linkedin.com/in/katrin-gl%C3%B6wing-9b2a24205/)](https://www.linkedin.com/in/katrin-gl%C3%B6wing-9b2a24205/)
 [![GitHub followers](https://img.shields.io/github/followers/gitkatrin?label=Follow&style=social)](https://github.com/gitKatrin/?tab=follow)
 
@@ -14,24 +14,24 @@
 ![image](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 -->
-
+<div align="center">
  <img src="https://github.com/gitkatrin/gitkatrin/blob/main/Banner.png" width="1000">
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkatrin&show_icons=true&theme=locale) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin)](https://github.com/anuraghazra/github-readme-stats) 
-<img src="https://c.tenor.com/ofRfDfidsZsAAAAj/cat-checking-in.gif" width="200">
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin)](https://github.com/anuraghazra/github-readme-stats)   &emsp; &ensp;
+<img src="https://media3.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif?cid=790b7611384c553966cb55a111688135b6ec68aefb6d5705&rid=giphy.gif&ct=g)" width="200">
+</div>
+<!--<img src="https://c.tenor.com/ofRfDfidsZsAAAAj/cat-checking-in.gif" width="200"> -->
+
 
 - ✅ Bachelor's degree in Electronic Engineering (B. Sc.)
 - 👩🏽‍💻 working in software development
 - 👩🏽‍🎓 Student M. Sc. Technical Consulting and Management
 
 
-
-
-
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin&layout=compact)](https://github.com/gitkatrin/github-readme-stats)-->
-
 
 
 <!--
