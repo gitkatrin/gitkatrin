@@ -19,16 +19,15 @@
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gitkatrin&show_icons=true&theme=locale) -->
 
-
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin)](https://github.com/anuraghazra/github-readme-stats)   &emsp; &ensp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkartrin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  &emsp; &ensp;
 <img src="https://media3.giphy.com/media/mP8YqtjCNOB9HLyrn0/giphy.gif?cid=790b7611384c553966cb55a111688135b6ec68aefb6d5705&rid=giphy.gif&ct=g)" width="200">
 </div>
 <!--<img src="https://c.tenor.com/ofRfDfidsZsAAAAj/cat-checking-in.gif" width="200"> -->
 
 
 - ✅ Bachelor's degree in Electronic Engineering (B. Sc.)
-- 👩🏽‍💻 working in software development
-- 👩🏽‍🎓 Student M. Sc. Technical Consulting and Management
+- ✅ Master's degree in Technical Consulting and Management (B. Sc.)
+- 👩🏽‍💻 working in computer science
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gitkatrin&layout=compact)](https://github.com/gitkatrin/github-readme-stats)-->
